@@ -1,6 +1,6 @@
-# Auditory Memory and Visual Stimulations
+# Rhythmic visual stimulation and auditory memory
 **Project ID**\
-VIS
+RVS
 
 **Expected experimentation period**\
 Start date: 29/03/2018\
