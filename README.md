@@ -43,10 +43,7 @@ n/a
 22. S233
 
 **Primary Publication**\
-Philippe Albouy et al. ,Supramodality of neural entrainment: Rhythmic visual stimulation causally enhances auditory working memory performance.Sci. Adv.8,eabj9782(2022).DOI:10.1126/sciadv.abj9782
-
-**Research Paper Link**\
-https://www.science.org/doi/10.1126/sciadv.abj9782
+Philippe Albouy et al. ,Supramodality of neural entrainment: Rhythmic visual stimulation causally enhances auditory working memory performance.Sci. Adv.8, eabj9782(2022). DOI:https://doi.org/10.1126/sciadv.abj9782
 
 **Acknowledgements**\
 We thank J. Kweon and D. Fu for their contribution in data collection. This work was supported by a CIHR Foundation grant to R.J.Z.; by NSERC Discovery grants to P.A., S.B., and R.J.Z.; and by two grants to S.B. and R.J.Z. from the Healthy Brains for Healthy Lives initiative of McGill University under the Canada First Research Excellence Fund. P.A. was funded by an NSERC Banting Fellowship. R.J.Z. is a fellow of the Canadian Institute for Advanced Research and is funded via the Canada Research Chair Program. S.B. is also supported by the CIHR Canada Research Chair of Neural Dynamics of Brain Systems and the NIH (1R01EB026299). P.A. is supported by FRQS Junior 1 grant.
