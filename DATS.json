@@ -95,16 +95,16 @@
 	},
 	{
 		"value": "brain networks"
-        },		
+        },
 	{
 		"value": "memory"
-        },		
+        },
 	{
 		"value": "visual rhythmic stimulation"
-        },		
+        },
 	{
 		"value": "theta oscillation"
-        }	
+        }
     ],
 	"primaryPublications" : [
 		{
@@ -175,6 +175,14 @@
             "values": [
                 {
                     "value": "Quebec"
+                }
+            ]
+        },
+{
+            "category": "origin_consortium",
+            "values": [
+                {
+                    "value": "EEGnet"
                 }
             ]
         },
